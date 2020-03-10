@@ -1,0 +1,24 @@
+[
+    {
+        "model": "question.answer",
+        "pk": 1,
+        "fields": {
+            "question": 69,
+            "body": "Sorry, nevermind",
+            "created": "2020-03-09T20:47:18.995Z",
+            "modified": "2020-03-09T20:56:52.763Z",
+            "user": 1
+        }
+    },
+    {
+        "model": "question.answer",
+        "pk": 2,
+        "fields": {
+            "question": 69,
+            "body": "Just write console.log('hello world')",
+            "created": "2020-03-09T20:55:08.588Z",
+            "modified": "2020-03-09T20:55:08.588Z",
+            "user": 1
+        }
+    }
+]
